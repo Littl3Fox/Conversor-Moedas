@@ -3,7 +3,7 @@ O código Conversor-Moedas faz exatamente o que o nome propõe:
 Converte uma moeda de origem(BRL,USD,JPY,etc) em uma moeda de destino(BRL,USD,JPY,etc)
 
 ✏️Nesse projeto eu faço:
-1º Peço ao usuário pelo o símbolo da moeda a ser convertida\n
+1º Peço ao usuário pelo o símbolo da moeda a ser convertida
 2º Peço ao usuário pelo símbolo da moeda de destino
 3º Peço ao usuário o valor que ele deseja converter
 4º Faço uma requisição para a API [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas) para obter dados atualizados do par de moedas Origem/Destino
